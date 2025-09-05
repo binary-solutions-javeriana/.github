@@ -1,0 +1,6 @@
+blank_issues_enabled: false  # Obliga a usar una de las plantillas
+
+contact_links:
+  - name: 📚 Documentación del proyecto
+    url: https://github.com/Binary-Solutions-Javeriana
+    about: Revisa la guía antes de crear un issue.
