@@ -1,48 +1,48 @@
 ---
-name: "🐛 Reporte de Bug"
-about: Reportar un problema en el sistema
-title: "[BUG] Breve descripción del problema"
+name: "🐛 Bug Report"
+about: Report a problem in the system
+title: "[BUG] Brief description of the problem"
 labels: bug
 assignees: ''
 ---
 
-## 🐞 Descripción del bug
-<!-- Explica de forma clara el problema -->
+## 🐞 Bug description
+<!-- Clearly explain the problem -->
 
-## 🧭 Contexto / Ubicación
-- Módulo / Pantalla / URL:
-- Usuario/Rol (si aplica):
-- Proyecto/ID (si aplica):
+## 🧭 Context / Location
+- Module / Screen / URL:
+- User/Role (if applicable):
+- Project/ID (if applicable):
 
-## 🔄 Pasos para reproducirlo
-1. Ir a '...'
-2. Hacer clic en '...'
-3. Describir la acción...
-4. Ver error
+## 🔄 Steps to reproduce
+1. Go to '...'
+2. Click on '...'
+3. Describe the action...
+4. See error
 
-## ✅ Comportamiento esperado
-<!-- ¿Qué debería pasar? -->
+## ✅ Expected behavior
+<!-- What should happen? -->
 
-## 📊 Severidad / Prioridad / Reproducibilidad
-- Severidad: (Crítica | Alta | Media | Baja)    
-- Reproducibilidad: (Siempre | Intermitente | Una vez)
+## 📊 Severity / Priority / Reproducibility
+- Severity: (Critical | High | Medium | Low)    
+- Reproducibility: (Always | Intermittent | Once)
 
-## 🧪 Entorno
-- Versión de la app / tag / commit: 
-- SO / Navegador (versión): 
-- Backend/DB relevantes (si aplica):
+## 🧪 Environment
+- App version / tag / commit:
+- OS / Browser (version):
+- Relevant Backend/DB (if applicable):
 
-## 🧾 Logs / Consola / Traza
-(Pega aquí logs, stacktrace o salida de consola)
+## 🧾 Logs / Console / Trace
+(Paste logs, stacktrace, or console output here)
 
-## 🔄 ¿Regresión?
-- ¿Ocurría en la versión anterior?: (Sí/No/No aplica) — ¿Cuál?
+## 🔄 Regression?
+- Did it occur in the previous version?: (Yes/No/Not applicable) — Which one?
 
-## 🩹 Workaround conocido
-<!-- ¿Hay forma temporal de evitarlo? -->
+## 🩹 Known workaround
+<!-- Is there a temporary way to avoid it? -->
 
-## 📷 Evidencia
-<!-- Adjunta imágenes, videos o enlaces si se puede -->
+## 📷 Evidence
+<!-- Attach images, videos, or links if possible -->
 
-## 📌 Notas adicionales
-<!-- Cualquier pista, hipótesis, condiciones de carrera, información extra que pueda ser útil para diagnosticar. -->
+## 📌 Additional notes
+<!-- Any clues, hypotheses, race conditions, extra information that might be useful for diagnosis. -->

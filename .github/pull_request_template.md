@@ -1,43 +1,43 @@
-# 📌 Descripción
-<!-- Explica brevemente qué cambios realizaste y por qué -->
-Ejemplo:  
-Implementa autenticación con JWT y control de roles RBAC.  
-Incluye pruebas unitarias y actualización de la documentación en Swagger.
+# 📌 Description
+<!-- Briefly explain what changes you made and why -->
+Example:  
+Implements authentication with JWT and RBAC role control.  
+Includes unit tests and an update of the documentation in Swagger.
 
-# 📍 Alcance y limitaciones
-<!-- Qué cubre y qué no cubre este PR -->
+# 📍 Scope and limitations
+<!-- What this PR covers and does not cover -->
 
-# 🎯 Tipo de cambio
-Escribe la que aplique  :
-- [ ] 🆕 Nueva funcionalidad (feature)
-- [ ] 🐛 Corrección de bug (hotfix/fix)
-- [ ] 📝 Documentación
-- [ ] 🎨 Mejora de estilo/código (refactor)
-- [ ] 🚀 Mejora de rendimiento
-- [ ] ✅ Pruebas
-- [ ] 💥 Breaking change (rompe compatibilidad)
+# 🎯 Type of change
+Write the one that applies:
+- [ ] 🆕 New functionality (feature)
+- [ ] 🐛 Bug fix (hotfix/fix)
+- [ ] 📝 Documentation
+- [ ] 🎨 Style/code improvement (refactor)
+- [ ] 🚀 Performance improvement
+- [ ] ✅ Tests
+- [ ] 💥 Breaking change (breaks compatibility)
 
-# 🧾 Tarea/Ticket relacionado
-<!-- Enlaza el ticket o issue asociado -->
-Ejemplo: Closes #45 o CU-12345 (ClickUp)
+# 🧾 Related Task/Ticket
+<!-- Link the associated ticket or issue -->
+Example: Closes #45 or CU-12345 (ClickUp)
 
-# 🧩 Instrucciones para probar
-<!-- Pasos para que el revisor pueda validar, si aplica -->
+# 🧩 Instructions to test
+<!-- Steps for the reviewer to validate, if applicable -->
 
-# 🧪 Checklist antes de solicitar revisión
-- [ ] Código probado localmente
-- [ ] PR apunta a la rama correcta (`develop` o `main` según Gitflow)
-- [ ] CI/CD en verde (build, tests, análisis de calidad)
-- [ ] Sin vulnerabilidades críticas en SonarQube
-- [ ] Cumple convención de commits (Conventional Commits)
-- [ ] Documentación actualizada (README, Swagger, etc.)
-- [ ] Sin conflictos de merge
-- [ ] Actualicé CHANGELOG.md
+# 🧪 Checklist before requesting review
+- [ ] Code tested locally
+- [ ] PR points to the correct branch (`develop` or `main` according to Gitflow)
+- [ ] CI/CD green (build, tests, quality analysis)
+- [ ] No critical vulnerabilities in SonarQube
+- [ ] Meets commit convention (Conventional Commits)
+- [ ] Documentation updated (README, Swagger, etc.)
+- [ ] No merge conflicts
+- [ ] I updated CHANGELOG.md
 
-# 📷 Evidencia / Screenshots
-<!-- Si aplica, adjunta capturas de pantalla o gifs mostrando el cambio -->
-Ejemplo:  
-![captura](url-de-la-imagen)
+# 📷 Evidence / Screenshots
+<!-- If applicable, attach screenshots or gifs showing the change -->
+Example:  
+![screenshot](url-of-the-image)
 
-# 🗣 Notas adicionales para el revisor
-<!-- Información extra que pueda ser útil para la revisión -->
+# 🗣 Additional notes for the reviewer
+<!-- Extra information that might be useful for the review -->

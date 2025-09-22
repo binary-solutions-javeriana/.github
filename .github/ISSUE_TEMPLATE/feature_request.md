@@ -1,29 +1,29 @@
 ---
-name: "🆕 Solicitud de Funcionalidad"
-about: Proponer una nueva característica o mejora
-title: "[FEATURE] Breve descripción de la funcionalidad"
+name: "🆕 Feature Request"
+about: Propose a new feature or improvement
+title: "[FEATURE] Brief description of the feature"
 labels: enhancement
 assignees: ''
 ---
 
-## 🎯 Descripción de la propuesta
-<!-- Explica la funcionalidad o mejora deseada -->
+## 🎯 Description of the proposal
+<!-- Explain the desired feature or improvement -->
 
-## 💡 Justificación
-<!-- ¿Por qué es importante o necesaria esta mejora? ¿Qué problema resuelve? -->
+## 💡 Justification
+<!-- Why is this improvement important or necessary? What problem does it solve? -->
 
-## ✅ Criterios de aceptación
-- [ ] Condición que debe cumplirse para aprobar
-- [ ] Otra condición clara y verificable
+## ✅ Acceptance criteria
+- [ ] Condition that must be met for approval
+- [ ] Another clear and verifiable condition
 
-## 🛠 Ejemplo de implementación
-<!-- Si tienes ideas de cómo implementarlo, descríbelas aquí -->
+## 🛠 Implementation example
+<!-- If you have ideas on how to implement it, describe them here -->
 
-## 🔗 Dependencias / Bloqueos
-<!-- Indica si depende de otra tarea o funcionalidad -->
+## 🔗 Dependencies / Blockers
+<!-- Indicate if it depends on another task or functionality -->
 
-## 📷 Referencias
-<!-- Imágenes, diagramas o enlaces de referencia -->
+## 📷 References
+<!-- Images, diagrams, or reference links -->
 
-## 📌 Notas adicionales
-<!-- Información extra que pueda ayudar al desarrollo -->
+## 📌 Additional notes
+<!-- Extra information that could help development -->
